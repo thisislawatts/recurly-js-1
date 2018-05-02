@@ -7,6 +7,7 @@
 [![build status][travis-image]][travis-url]
 [![Browser test status][sauce-image]][sauce-url]
 [![coverage][coverage-image]][coverage-url]
+[![Known Vulnerabilities](https://snyk.io/test/github/recurly/recurly-js/badge.svg)](https://snyk.io/test/github/recurly/recurly-js)
 
 ## Documentation
 
